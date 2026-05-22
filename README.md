@@ -14,7 +14,7 @@ This research was produced in support of the DCS World Su-57 (Felon) development
 
 [DCS Su-57 Community Server](https://discord.gg/tAmU5wJr3A)
 
-Feedback on v1.5 is welcome — corrections and suggestions will be incorporated into v2.
+Feedback on the manuscript is welcome is welcome — corrections and suggestions will be incorporated into the latest version.
 License
 
 © 2026 Ayush Sreejith — CC BY-NC-ND 4.0
