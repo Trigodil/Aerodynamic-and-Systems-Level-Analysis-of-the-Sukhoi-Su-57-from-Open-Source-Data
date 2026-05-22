@@ -1,4 +1,4 @@
-# Su-57-Aerodynamic-Analysis-V1.5
+# Aerodynamic and Systems-Level Analysis of the Sukhoi Su-57 from Open-Source Data
 Sukhoi Su-57 (Felon): Aerodynamic Analysis
 
 Author: Ayush Sreejith
