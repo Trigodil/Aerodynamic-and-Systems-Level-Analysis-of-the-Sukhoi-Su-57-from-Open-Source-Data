@@ -10,7 +10,7 @@ Manuscript Is to be submitted to the AIAA Journal of Aircraft.
 
 # Notes
 
-Note:AI tools (Claude, Anthropic) were used for latex syntax and proffessional formatting, all aero calculation and DATCOM METHODOLOGY were independently derived by the author.
+Note:AI tools (Claude, Anthropic) were used for latex syntax and professional formatting, all aero calculation and DATCOM METHODOLOGY were independently derived by the author.
 
 Independent aerodynamic analysis of the Su-57 fifth-generation fighter using NASA DATCOM methodology and publicly available data.
 Community
