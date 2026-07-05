@@ -4,10 +4,6 @@ Sukhoi Su-57 (Felon): Aerodynamic Analysis
 Author: Ayush Sreejith
 Date: March 2026
 
-# Current positioning
-
-Manuscript Is to be submitted to the AIAA Journal of Aircraft.
-
 # Notes
 
 Note:AI tools (Claude, Anthropic) were used for latex syntax and professional formatting, all aero calculation and DATCOM METHODOLOGY were independently derived by the author.
